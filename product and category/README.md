@@ -1,8 +1,8 @@
 # REPORT
+ 
+ 1. Full Inventory Report
+<img width="600" height="178" alt="image" src="https://github.com/user-attachments/assets/4dc9d5de-ba85-468e-a3b9-6b4d34379b67" />
 
+2. Category Summary Report
 
-<img width="752" height="427" alt="image" src="https://github.com/user-attachments/assets/471a0c3c-1d60-4634-afeb-5f9387bacdfc" />
-
-REPORT 2
-
-<img width="726" height="243" alt="image" src="https://github.com/user-attachments/assets/12ecd703-0a4a-4575-adea-83bfcf11c545" />
+<img width="501" height="107" alt="image" src="https://github.com/user-attachments/assets/f983d068-645b-40e0-9ed1-7c82fd0ee0ed" />
